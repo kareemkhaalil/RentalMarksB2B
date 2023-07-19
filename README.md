@@ -1,16 +1,42 @@
-# rental_marks_business
+# RentalMarks_B2B_🏢
 
-A new Flutter project.
+_____________________________________________________
 
-## Getting Started
+RentalMarks B2B is the other side of RentalMarks that's designed for B2B companies. The app allows users, who are companies, to add products, follow purchase and reservation requests, respond to messages, and track statistics.
 
-This project is a starting point for a Flutter application.
+The app is entirely developed using Flutter and Dart 🚀, and BloC is used for state management. 💻📈
 
-A few resources to get you started if this is your first Flutter project:
+The app is connected to a private server's SQL database through an API, and the website uses the same setup. DIO package in Flutter is used to interact with the API, and it's working seamlessly with the API. 💻🔍
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In the future, we're open to any new ideas and features that align with the company's priorities. The project is left entirely open for anyone who wants to use or develop it. 🌟
+_____________________________________________________
+Features:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Add and manage products
+Follow purchase and reservation requests
+Respond to messages
+Track statistics
+_____________________________________________________
+Database:
+
+SQL database on a private server
+API support using the DIO package in Flutter
+Future:
+
+Open to new ideas and features
+
+_____________________________________________________
+Contributing:
+If you would like to contribute to the RentalMarks B2B project, please follow these guidelines:
+
+Open an issue to describe the problem or feature you want to add 📝
+Create a fork of the project and make changes on a new branch 🌿
+Send a pull request to merge the changes 🛎️
+_____________________________________________________
+Contact:
+Email: devbile.team@gmail.com 📧
+Twitter: @kareem__khalil 🐦
+LinkedIn: @kareemahmedkhalil 💼
+_____________________________________________________
+ 📸 📸
+ ![WhatsApp Image 2023-06-29 at 17 34 52](https://github.com/kareemkhaalil/RentalMarksB2B/assets/35874983/18ed4ec6-8ab5-4133-acc9-1336d0c52b15)
